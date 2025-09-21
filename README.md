@@ -3,7 +3,7 @@
 ¡Bienvenido a mi proyecto personal de Snake! Este es un juego simple pero divertido que desarrollé como parte de mi viaje aprendiendo Python.
 
 ## 🎮 Sobre el Juego
-Este es mi intento de recrear el clásico juego de Snake usando Python y la biblioteca Pygame. Lo hice principalmente para divertirme mientras practicaba programación, ¡y fue muy entretenido hacerlo!
+Este es mi intento de recrear el clásico juego de Snake usando Python y la biblioteca Pygame. Lo hice principalmente para divertirme mientras practicaba programación,
 
 ## 🚀 Características
 - Control con las flechas del teclado
