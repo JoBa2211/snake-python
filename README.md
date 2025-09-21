@@ -9,7 +9,6 @@ Este es mi intento de recrear el clásico juego de Snake usando Python y la bibl
 - Control con las flechas del teclado
 - La serpiente crece mientras juegas
 - Efectos visuales simples pero efectivos
-- ¡Mucha diversión!
 
 ## 🔧 Requisitos
 - Python 3.x
@@ -33,4 +32,4 @@ Este es mi intento de recrear el clásico juego de Snake usando Python y la bibl
 - ➡️ Flecha Derecha: Mover derecha
 
 ## 🤓 Notas del Desarrollador
-Este proyecto fue creado por diversión y como una manera práctica de aprender más sobre Python y desarrollo de juegos. ¡Siéntete libre de jugar, modificar y divertirte con él!
+Este proyecto fue creado por diversión y como una manera práctica de aprender más sobre Python y desarrollo de juegos. No esta hecho con una idea de optimizar todo al maximo etx muy apenas se utilizar ahora mismo el pygame de forma correcta y al dia de ediat este reedme estoy aprendiendo programacion lineal en phyton se objetos en  otros lenguajes pero decidi mantenerlo simple ya que no creo que sea demasiado complicado hacer un snake en lineal
